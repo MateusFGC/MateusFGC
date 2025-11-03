@@ -11,7 +11,7 @@
 
 Desenvolvedor **Front-End** com mais de 3 anos de experiência prática no time de Marketing Digital do **KaBuM!**.
 
-Sou especializado em **traduzir briefings de marketing e design** em código limpo, semântico e performático. Minha experiência no KaBuM! envolve o desenvolvimento e otimização de landing pages de alta conversão e a manutenção do blog WordPress, implementando melhorias contínuas de layout, **Core Web Vitals** e **SEO On-Page** para impulsionar o engajamento e a aquisição orgânica.
+Com experiência em **traduzir briefings de marketing e design** em código limpo, semântico e performático. Minha experiência no KaBuM! envolve o desenvolvimento e otimização de landing pages de alta conversão e a manutenção do blog WordPress, implementando melhorias contínuas de layout, **Core Web Vitals** e **SEO On-Page** para impulsionar o engajamento e a aquisição orgânica.
 
 Meu perfil é analítico e proativo, colaborando com equipes multidisciplinares para entregar soluções digitais que geram resultados de conversão.
 
