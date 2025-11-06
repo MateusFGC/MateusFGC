@@ -14,7 +14,7 @@ https://mateusfgc.github.io/Meu-Portfolio/
 
 ### Sobre Mim
 
-Desenvolvedor **Front-End** com mais de 3 anos de experiência prática no time de Marketing Digital do **KaBuM!**.
+Desenvolvedor **Front-End** com mais de 4 anos de experiência prática no time de Marketing Digital do **KaBuM!**.
 
 Com experiência em **traduzir briefings de KV de marketing e design** em código limpo, semântico e performático. Minha experiência no KaBuM! envolve o desenvolvimento e otimização de landing pages de alta conversão e a manutenção do blog WordPress, implementando melhorias contínuas de layout, **Core Web Vitals** e **SEO On-Page** para impulsionar o engajamento e a aquisição orgânica.
 
